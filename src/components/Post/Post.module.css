@@ -6,8 +6,9 @@
 }
 
 .post-image {
-    max-width: 100%;
+    max-width: 50%;
     display: block;
+    margin: 0 auto;
 }
 
 .post-text,
@@ -16,10 +17,12 @@
     font-size: 14px;
     line-height: 22px;
     margin-bottom: 24px;
+    text-align: center;
 }
 
 .post-comments {
-    
+    color: #444;
+
 }
 
 .post-comment {
